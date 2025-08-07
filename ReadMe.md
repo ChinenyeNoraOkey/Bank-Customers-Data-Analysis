@@ -15,7 +15,7 @@ As a Data Analyst, I am tasked with addressing the bank’s growing concern over
 
 - Identifying trends and patterns in customer engagement
 
-- highlight potential areas for business improvement(e.g., customer retention or service optimization).
+- highlight potential areas for business improvement e.g., customer retention or service optimization.
 
 
 ## Dataset
@@ -40,24 +40,27 @@ As a Data Analyst, I am tasked with addressing the bank’s growing concern over
 
 ## Key Insights
 
-- The overall churn rate is approximately XX%.
+-  The overall churn rate is approximately 20.4%.
 
-- Customers in [Geography] and aged [30–45] are more likely to churn.
+-  Inactive members are more likely to churn than active ones.
 
-- Inactive members and those with more products tend to churn more.
+-  Customers with multiple products (especially 2+) showed higher churn rates.
 
-- Surprisingly, customers with higher balances and low credit scores also churn.
+-  Churned customers had, on average, higher account balances than those who stayed.
 
+-  Customers with low credit scores are more likely to churn.
 
-These insights can help the bank better target at-risk customers.
+-  Specific age groups (especially 36–45 years old) and certain geographies showed higher churn patterns.
+
+These insights reveal both engagement and risk factors that the bank can act upon.
 
 
 ## Recommendations
--  Create retention programs targeting high-risk demographics.
 
-- Reward active users to reduce inactivity churn.
+- Retention programs should be tailored for inactive and multi-product customers
 
-- Conduct product satisfaction surveys for multi-product users.
+- Educate and support customers with low credit scores to build trust and engagement
 
-- Educate customers on credit health to improve engagement.
+- Evaluate satisfaction and usability of bundled products to address multi-product churn
 
+- Monitor churn-prone regions and age groups more closely to personalize communication and service
